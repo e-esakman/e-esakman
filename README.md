@@ -1,4 +1,4 @@
-## Hi there 👋
+## Just a few lines of code & shameless consistency away from world domination
 
 <!--
 **e-esakman/e-esakman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
